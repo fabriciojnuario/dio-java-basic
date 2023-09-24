@@ -22,8 +22,8 @@ public class SmartTV {
         volume--;
     }
 
-    public void changeChannel(int ch){
-        this.channel = ch;
+    public void changeChannel(int channel){
+        this.channel = channel;
     }
 
     public void channelUP(){

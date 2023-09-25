@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatationCep",
+            "request": "launch",
+            "mainClass": "com.spike80.exceptions.FormatationCep",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionsExample",
+            "request": "launch",
+            "mainClass": "com.spike80.exceptions.ExceptionsExample",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileExample",
+            "request": "launch",
+            "mainClass": "com.spike80.repetion.DoWhileExample",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "WhileExample",
+            "request": "launch",
+            "mainClass": "com.spike80.repetion.WhileExample",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinueExample",
+            "request": "launch",
+            "mainClass": "com.spike80.repetion.BreakContinueExample",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "ForExampleArray",
+            "request": "launch",
+            "mainClass": "com.spike80.repetion.ForExampleArray",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "ForExample",
+            "request": "launch",
+            "mainClass": "com.spike80.repetion.ForExample",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "CarrierPlan",
+            "request": "launch",
+            "mainClass": "com.spike80.decision.CarrierPlan",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "MeasureSystem",
+            "request": "launch",
+            "mainClass": "com.spike80.decision.MeasureSystem",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "Grades2Valuate",
+            "request": "launch",
+            "mainClass": "com.spike80.repetition.Grades2Valuate",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "GradesValuate",
+            "request": "launch",
+            "mainClass": "com.spike80.repetition.GradesValuate",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "ATM",
+            "request": "launch",
+            "mainClass": "com.spike80.repetition.ATM",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
             "name": "AboutMeScanner",
             "request": "launch",
             "mainClass": "com.spike80.io.AboutMeScanner",

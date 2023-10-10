@@ -11,10 +11,10 @@ public class Atendente {
 	public void receberPagamento() {
 		System.out.println("RECEBENDO O PAGAMENTO.");
 	}
-	private void pegarPedidoBalcao() {
+	public void pegarPedidoBalcao() {
 		System.out.println("PEGANDO PEDIDO BALCAO");
 	}
 	void trocarGas() {
-		System.out.println("TROCANDO O GAS")
+		System.out.println("TROCANDO O GAS");
 	}
 }

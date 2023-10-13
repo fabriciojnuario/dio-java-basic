@@ -8,19 +8,19 @@ public class MultifunctionalEquipament implements Printer, Digitalizer, Copying{
 
 	@Override
 	public void copying() {
-		System.out.println("Copying via multifunctional equipament");
+		System.out.println("Copying via multifunctional equipament\n");
 		
 	}
 
 	@Override
 	public void scanner() {
-		System.out.println("Scanning via multifunctional equipament");
+		System.out.println("Scanning via multifunctional equipament\n");
 		
 	}
 
 	@Override
 	public void printer() {
-		System.out.println("Copying via multifunctional equipament");
+		System.out.println("Printing via multifunctional equipament\n");
 		
 	}
 
